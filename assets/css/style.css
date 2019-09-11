@@ -12,3 +12,19 @@ panel{
 .panel-heading{
 	padding-top: 0.25%;
 }
+.panel-success{
+    color: #67a8e6;
+}
+.panel-heading{
+    background-color: rgb(31, 26, 100);
+    color: #67a8e6
+}
+.panel-body{
+    color: #67a8e6;
+}
+.form-group{
+    color: #67a8e6;
+}
+.table{
+    color:#67a8e6;
+}
